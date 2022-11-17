@@ -3,6 +3,8 @@ This script sets the energy of all pokemon to the configured value
 It is for use in PVP multiplayer, and is only tested in this circumstance.
 It edits the memory of the running game, Desmume > lua scripting
 
+Launch the game, then run the script when you are in the overworld (viewing kingdoms)
+
 Edit the variable "ENERGY" to your desired value
 
 N Energy  Multiplier
