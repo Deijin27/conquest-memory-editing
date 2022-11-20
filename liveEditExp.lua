@@ -9,6 +9,8 @@ RightArrowKey = increase exp once per click
 K = decrease exp once per frame while key is held
 L = increase exp once per frame while key is held
 
+To update the displayed link value, click the down then up arrow to deselect and reselect that pokemon.
+
 I have already used this to get the exact exps for link X.00 values if this is what you want
 https://pastebin.com/r6ys0P3Z
 
