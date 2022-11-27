@@ -1,0 +1,20 @@
+0x020C4D48 -> 0x0226FE58 = Pokemon
+0x020C4D4C -> 0x022724F8 = ScenarioPokemon
+0x020C4D50 -> 0x02274774 = ?
+0x020C4D54 -> 0x02277664 = BaseWarrior
+0x020C4D58 -> 0x022797F0 = ScenarioWarrior
+0x020C4D5C -> 0x0227B320 = Player's Name
+0x020C4D60 -> 0x0227B340 = ?
+0x020C4D64 -> 0x0227C160 = ?
+0x020C4D68 -> 0x0227CC70 = Kingdom
+0x020C4D6C -> 0x0227CF08 = ScenarioSeiryoku
+0x020C4D70 -> 0x0227D9B8 = ?
+0x020C4D74 -> 0x0227D9CC = Building
+0x020C4D78 -> 0x0227F02C = ? maybe one of the data things?
+0x020C4D7C -> 0x0227F680 = Episode
+0x020C4D80 -> 0x0226FD38 = idk but theres some pokemon
+0x020C4D84 -> 0x0226FDD0 = idk but theres some pokemon
+0x020C4D88 -> 0x0227F7E8 = Item
+0x020C4D8C -> 0x02280AD0 = A8 A8 A8
+0x020C4D90 -> 0x02280BF8 = numbers 0-7
+... tbc

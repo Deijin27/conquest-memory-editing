@@ -27,6 +27,7 @@ function displayWarriorInfo()
     gui.text(10, 20, "Pokemon: " .. tostring(firstPokemon), "white")
     gui.text(10, 30, "EXP    : " .. tostring(exp), "white")
     gui.text(10, 40, string.format("IVs    : HP%d/Atk%d/Def%d/Spe%d", hpIv, atkIv, defIv, speIv))
+    gui.text(10, 50, "Species: " .. tostring(memory.readbyte(pokeOffset)), "white")
 end
 
 gui.register(displayWarriorInfo)
