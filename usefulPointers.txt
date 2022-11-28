@@ -17,4 +17,22 @@
 0x020C4D88 -> 0x0227F7E8 = Item
 0x020C4D8C -> 0x02280AD0 = A8 A8 A8
 0x020C4D90 -> 0x02280BF8 = numbers 0-7
+0x020C4D94 -> 0x02280DA8 = Battle Config (Map.dat)
+0x020C4D98 -> 0x02281624 = Moves (Waza)
+0x020C4D9C -> 0x02282EC4 = Warrior Skills (Saihai)
+0x020C4DA0 -> 0x022836D0 = Abilities (Tokusei)
+0x020C4DA4 -> 0x022840E0 = Gimmick
+0x020C4DA8 -> 0x02285888 = 
+0x020C4DAC -> 0x02286798 = 
+0x020C4DB0 -> 0x02286938 = 
+0x020C4DB4 -> 0x02286E5C = Event Speaker
+0x020C4DB8 -> 0x022872A4 = 
+0x020C4DBC -> 0x022872B8 = Player's Name (Again?)
+0x020C4DC0 -> 0x02287BA0 = An LINK archive with no contents? There is a few of them, one does have a BTX0 in there
+0x020C4DC4 -> 0x02052CA0 = 
+0x020C4DC8 -> 0x00000001 = 
+0x020C4DCC -> 0x0225ADC0 = HPXE magicnum?
+0x020C4DD0 -> 0x021B1BF0 = HMRF ... SBNK (audio)
+
+
 ... tbc
